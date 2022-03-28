@@ -1,0 +1,80 @@
+{
+  "podcasts": [
+    {
+      "id": 1,
+      "trackName": "Life Kit",
+      "artistName": "NPR",
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts115/v4/e1/9d/6a/e19d6a36-62be-9976-4c61-75554559999d/mza_8670144619487017171.png/600x600bb.jpg",
+      "feedUrl": "https://feeds.npr.org/510338/podcast.xml",
+      "genres": [
+        "Health & Fitness",
+        "Podcasts",
+        "Business",
+        "Investing"
+      ]
+    },
+    {
+      "id": 2,
+      "trackName": "Life Kit: Money",
+      "artistName": "NPR",
+      "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts125/v4/2d/e7/4d/2de74d06-7ab8-32b8-9a2b-3fd7b407db38/mza_104714434199313222.png/600x600bb.jpg",
+      "feedUrl": "https://feeds.npr.org/510341/podcast.xml",
+      "genres": [
+        "Business",
+        "Podcasts"
+      ]
+    },
+    {
+      "id": 3,
+      "trackName": "Pardon My Take",
+      "artistName": "Barstool Sports",
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts125/v4/8f/7c/00/8f7c003e-7a57-123e-b5a3-09fa9690e0bc/mza_5633253483920864681.jpg/600x600bb.jpg",
+      "feedUrl": "https://mcsorleys.barstoolsports.com/feed/pardon-my-take",
+      "genres": [
+        "Football",
+        "Podcasts",
+        "Sports"
+      ]
+    },
+    {
+      "id": 4,
+      "trackName": "The Late-Round Podcast",
+      "artistName": "Fantasy Football",
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts115/v4/93/fe/4b/93fe4b5a-58e9-4f13-e12c-a513e5fea4d1/mza_15506912556439577740.jpg/600x600bb.jpg",
+      "feedUrl": "https://lateround.libsyn.com/rss",
+      "genres": [
+        "Fantasy Sports",
+        "Podcasts",
+        "Sports",
+        "Football"
+      ]
+    },
+    {
+      "id": 5,
+      "trackName": "The Late-Round Podcast",
+      "artistName": "Fantasy Football",
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts115/v4/93/fe/4b/93fe4b5a-58e9-4f13-e12c-a513e5fea4d1/mza_15506912556439577740.jpg/600x600bb.jpg",
+      "feedUrl": "https://lateround.libsyn.com/rss",
+      "genres": [
+        "Fantasy Sports",
+        "Podcasts",
+        "Sports",
+        "Football"
+      ]
+    },
+    {
+      "id": 6,
+      "trackName": "The Late-Round Podcast",
+      "artistName": "Fantasy Football",
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts115/v4/93/fe/4b/93fe4b5a-58e9-4f13-e12c-a513e5fea4d1/mza_15506912556439577740.jpg/600x600bb.jpg",
+      "feedUrl": "https://lateround.libsyn.com/rss",
+      "genres": [
+        "Fantasy Sports",
+        "Podcasts",
+        "Sports",
+        "Football"
+      ]
+    }
+    
+  ]
+}

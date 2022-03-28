@@ -1,0 +1,85 @@
+{
+  "language": {
+    "en_US": "English",
+    "zh_CN": "简体中文"
+  },
+  "layout": {
+    "search": "Search..."
+  },
+  "home": {
+    "topPodcastsIn": "top podcasts in",
+    "region": "Region",
+    "discover": "discover"
+  },
+  "search": {
+    "searchResultsFor": "Search results for:",
+    "found": "Found",
+    "matches": "matches",
+    "noPodcastsFound": "No Podcasts Found"
+  },
+  "podcast": {
+    "episodeTitle": "Episode title (Click the title for more details)",
+    "releaseDate": "Release date",
+    "duration": "Duration"
+  },
+  "sub": {
+    "subscription": "Subscription",
+    "subscriptions": "Subsctiptions",
+    "waitMsg": "Please wait while it is checking...",
+    "podcastName": "Podcast name",
+    "artistName": "Artist name",
+    "latestName": "Latest update",
+    "deleteMsg": "Are you sure you want to delete ",
+    "cancel": "Cancel",
+    "yes": "Yes"
+  },
+  "errorPage": {
+    "errorPageMsg": "Sorry, this page does not exist..."
+  },
+  "options": {
+    "submit": "Submit",
+    "uploaded": "Uploaded!",
+    "options": "Options",
+    "updateSub": "Update subscriptions",
+    "downloadBackup": "Download backup file",
+    "uploadBackup": "Upload backup file",
+    "count": "Count: ",
+    "unreads": "Unreads: "
+  },
+  "queue": {
+    "queue": "Queue",
+    "nowplaying": "Now playing",
+    "noplaying": "No playing at the moment",
+    "nextup": "Next up",
+    "total": "Total"
+  },
+  "message": {
+    "server_error": "Oops, something went wrong! Try again later :-(",
+    "no_keyword": "Please enter a keyword first!",
+    "no_region": "Please choose a region first!",
+    "resource_failed": "Failed to load resource :-(",
+    "already_added": "Already added.",
+    "added_to_queue": "Added to queue!",
+    "updated": "Updated",
+    "podcasts": "podcasts.",
+    "unsubscribed": "Unsubscribed",
+    "subscribed": "Subscribed",
+    "deleted": "Deleted",
+    "no_upcoming": "No upcoming episodes."
+  },
+  "tooltip": {
+    "subPage": "Subscriptions",
+    "backToTop": "Back to top",
+    "addedToSub": "Added to subscriptions",
+    "addToSub": "Add to subscriptions",
+    "viewUpdates": "View updates",
+    "viewMoreInfo": "View more info",
+    "delete": "Delete",
+    "play": "Play",
+    "close": "Close",
+    "languageChange": "Change language",
+    "queue": "Queue",
+    "addToQueue": "Add to queue",
+    "home": "Home"
+  }
+}

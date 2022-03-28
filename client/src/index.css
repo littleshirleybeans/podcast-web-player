@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* appbar: #0B0A10 */
+/* bg: #09091B */
+/* wrapper: #1A1A2B */
+/* others: #20273C */
+/* font: #F2F2F3 */
+/* icon: #5395FD */
+/* dot: #EE423F */
+
+
+:root {
+  --bg: #f7fbfc;
+  --white: #f7fbfc;
+  font-family: 'Poppins';
+}
+
+body{
+  background: #09091B;
+}
+
+*,::before,::after{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+@media (max-width: 960px) {
+  html {
+    font-size: 80%;
+    scroll-behavior: smooth;
+  }
+}
+
+@media (max-width: 600px) {
+  html {
+    font-size: 65%;
+    scroll-behavior: smooth;
+  }
+}
+
+/* SCROLL BAR  修改浏览器的滚动条样式 */
+::-webkit-scrollbar{
+  width: .6rem;
+  height: .6rem;
+  border-radius: .5rem;
+  background-color: hsl(45, 4%, 85%);
+}
+::-webkit-scrollbar-thumb{
+  background-color: hsl(45, 4%, 75%);
+  border-radius: .5rem;
+}
+::-webkit-scrollbar-thumb:hover{
+  background-color: hsl(45, 4%, 65%);
+}
+
+/* style the color of audio player 修改播放器的主题颜色 */
+.rhap_container{
+  background-color:  #09091B;
+  /* opacity: .8; */
+  color: var(--white);
+}
+.rhap_main-controls-button{
+  color: var(--white);
+}
+.rhap_volume-button{
+  color: var(--white);
+}
+.rhap_repeat-button{
+  color: var(--white);
+}
+.rhap_progress-indicator{
+  background-color: var(--bg); 
+}
+.rhap_time{
+  color: var(--white);
+}
+.rhap_progress-filled{
+  background-color: var(--bg);
+}
+.rhap_volume-indicator{
+  background-color: var(--bg);
+}
+.rhap_volume-filled{
+  background-color: var(--bg);
+}
